@@ -1,0 +1,77 @@
+table {
+  border-collapse: collapse;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+
+table {
+  width: 50%;
+}
+
+th {
+  height: 40px;
+}
+
+td {
+  height: 30px;
+}
+
+table, th, td {
+  border: 2px solid black;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+form {
+  display: grid;
+  grid-template-columns: 500px 500px;
+  column-gap: 10px;
+  row-gap: 10px;
+  margin-top: 20px;
+}
+
+button[type="submit"]{
+  height: 34px;
+  width: 206px;
+  border: none;
+  cursor: pointer;
+  border: 2px solid black;
+}
+
+button[type="button"] {
+  height: 34px;
+  width: 106px;
+  border: none;
+  cursor: pointer;
+  border: 2px solid black;
+}
+
+.gridview {
+  width: 50%;
+  line-height: 1.5;
+  margin-right: 2px;
+}
+
+.gridview input {
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+}
+
+.gridview TEXTINPUT {
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+}
+
+select {
+  height: 34px;
+  width: 206px;
+  border: 2px solid black;
+}
+
