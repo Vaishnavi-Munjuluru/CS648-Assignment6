@@ -35,7 +35,7 @@ function Footer() {
       <p className="text-center">
         Source code available at this
         {' '}
-        <a href="https://github.com/srikanthkollimerla/Assignment_6" target="_blank">
+        <a href="https://github.com/Vaishnavi-Munjuluru/CS648-Assignment6" target="_blank">
           GitHub repository
         </a>
       </p>
